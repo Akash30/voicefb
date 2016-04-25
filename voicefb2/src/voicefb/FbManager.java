@@ -17,7 +17,7 @@ public class FbManager {
 	//static DefaultFacebookClient d = new DefaultFacebookClient(Version.LATEST);
 	//public static AccessToken accessToken = d.obtainAppAccessToken(MY_APP_ID, MY_APP_SECRET);
 //	public static String MY_ACCESS_TOKEN = "EAACEdEose0cBAOcey51p0fAZBiZBZCIZBoZAVwjJfdOAGXvOFaAJESOuHi7Xyf4KWlttBQ5YmGcSHXh9jfZC0GmwOQ0AwO68ygQ9cZAZCwdTnpsdrPYCSTeh2AZAweEUZAAOePvtHha4tevb56AI8LN99Ul3xjS8ZCgssvCfeeuGzbQMwZDZD";
-	public static String MY_ACCESS_TOKEN = "EAACEdEose0cBADvZByyXqXZAuT20VvOkvLZCmaYUj4tVZBQK5IhjS7E01TMAGMcyA6pWKJZCumG03LldZAtPlTkICI19v4By8nAtb1Q9xKjgucJ0VSVPG62x1IKjBIecyKoakCj7BZBXHpIBNYNETKnC8ybl4ZChat6ZBOxgtq7ZCv7eO7D95Nbjql";
+	public static String MY_ACCESS_TOKEN = "EAACEdEose0cBAJhLgn3ZBunHRJlIMYzXt5YW6ZBEq0WCZBxjh3sZAwJQxqys0xR9g42vNAmTai6YtNPWReyQc5rQ7a3tklUpCyQKwzTLEVGYG1eFaSlZCLUGkCmuANu9pVgNBeTfXRPwtJzdnobzyzMueL0zQDv8Dhfpc5uyL57kRzQIByL6N";
 	public static FacebookClient facebookClient = new DefaultFacebookClient(MY_ACCESS_TOKEN, Version.LATEST);
 	
 //	public static void main(String[] args) {
