@@ -14,10 +14,12 @@ public class Main {
                 String video = args[2]; 
                 Posts.postVideo(video, status); 
             } else {
-                System.exit("invalid function signifier");
+		System.out.println("invalid function signifier");
+                System.exit(1);
             }
         } else {
-            System.exit("invalid input"); 
+		System.out.println("invalid input");
+            	System.exit(1); 
         }
     }
 }
