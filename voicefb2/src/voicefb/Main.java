@@ -1,4 +1,7 @@
-public class Main {
+package voicefb;
+import java.io.IOException;
+import voicefb.Posts;
+public class Main throws IOException {
     public static void main (String[] args) {
         if (args.length == 1) {
             String status = args[0]; 
